@@ -1,4 +1,4 @@
-baseURL = "https://armtarraco/github.io/quickstart/"
+baseURL = "https://armtarraco.github.io/quickstart/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
