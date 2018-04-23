@@ -1,6 +1,5 @@
 +++
 date = "2018-04-23T10:00:14+02:00"
-draft = true
 title = "Ruby __send__ vs send"
 
 +++
