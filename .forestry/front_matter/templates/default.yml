@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/ruby-__send__-vs-send.md
 hide_body: false
 is_partial: false
 fields:
